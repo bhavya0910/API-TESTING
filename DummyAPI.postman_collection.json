@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "10c3d0d8-316f-4ae5-9308-1626c27b193e",
+		"name": "DummyAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17157102",
+		"_collection_link": "https://bhavya0910.postman.co/workspace/demo_workspace~ec88cd03-a2c6-48c1-9073-65cc37615f03/collection/17157102-10c3d0d8-316f-4ae5-9308-1626c27b193e?action=share&source=collection_link&creator=17157102"
+	},
+	"item": [
+		{
+			"name": "ListUsers",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "add users",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
